@@ -48,6 +48,13 @@ Further analysis was done to further investigate why these customers are leaving
 
 #**Key Insights from Datatel's Churn Analysis Overview:**
 
+Customer Service Calls and Monthly Plans
 
+The provided data suggests that customers on monthly data plans tend to make more customer service calls compared to those on yearly plans.
 
+This analysis indicates that monthly plan customers might require more frequent support, potentially due to:
+
+1. Billing issues: Monthly plans may involve more frequent billing cycles, leading to a higher chance of encountering billing problems.
+2. Plan changes: Monthly plans offer more flexibility to change plans, which might lead to confusion or require customer service assistance.
+3. Technical difficulties: Since monthly plans cater to a wider range of users, there might be a higher variety of technical issues requiring support.
 
