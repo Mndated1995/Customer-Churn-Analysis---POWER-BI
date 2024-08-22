@@ -9,7 +9,8 @@ For subscription-based businesses, reducing customer churn is a top priority. In
 ### **Key Features of the Report:**,
 
 📌 Overview of Dashboard Analysis: Started exploring the new dataset and revisit creating measures in Power BI to get a better understanding of why customers are churning.
-https://github.com/Mndated1995/Customer-Churn-Analysis---POWER-BI/blob/main/Overview%20of%20Project.png
+![Overview of Dashboard](https://github.com/Mndated1995/Customer-Churn-Analysis---POWER-BI/blob/main/Overview%20of%20Project.png)
+
 
         
 - Step 15 : New measure was created to find total count of customers.
