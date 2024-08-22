@@ -8,7 +8,8 @@ For subscription-based businesses, reducing customer churn is a top priority. In
 
 ### **Key Features of the Report:**,
 
-📌Overview of Dashboard Analysis: 
+📌Overview of Dashboard Analysis📌:
+ 
 Started exploring the new dataset and revisit creating measures in Power BI to get a better understanding of why customers are churning.
 
 ![Overview of Dashboard](https://github.com/Mndated1995/Customer-Churn-Analysis---POWER-BI/blob/main/Overview%20of%20Project.png)
@@ -31,9 +32,22 @@ These insights suggest that Datatel needs to improve their customer offerings an
 3. Target California customers: Develop targeted marketing campaigns and promotions for customers in California to address the high churn rate in that state.
         
 
-📌Overview of Dashboard Analysis: 
-Started exploring the new dataset and revisit creating measures in Power BI to get a better understanding of why customers are churning.
 
-![Overview of Dashboard](https://github.com/Mndated1995/Customer-Churn-Analysis---POWER-BI/blob/main/Overview%20of%20Project.png)
+
+
+
+
+
+
+
+📌Further Analysis📌: 
+
+Further analysis was done to further investigate why these customers are leaving - with a particular focus on Account Lenght, Payment Method and Contract Category
+
+![Payment Overview](https://github.com/Mndated1995/Customer-Churn-Analysis---POWER-BI/blob/main/Payment%20Overview.png)
+
+#**Key Insights from Datatel's Churn Analysis Overview:**
+
+
 
 
